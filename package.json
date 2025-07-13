@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo": "^53.0.19",
+    "expo-camera": "~16.1.10"
+  }
+}
